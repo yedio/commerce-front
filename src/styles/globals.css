@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+	color: #444;
+	background: #fff;
+	font-weight: 400;
+	font-size: 14px;
+}
